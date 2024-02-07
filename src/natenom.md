@@ -12,7 +12,8 @@ Natenom wurde auf der Landstraße 574 bei Neuhausen am 30.01.2024 totgefahren.
 
 ## Gedenkveranstaltung am 11.02.2014
 Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
-Zubringer 
+[Zubringer aus Stuttgart-Vaihingen](https://twitter.com/ADFC_BW/status/1754782704443220365) 
+
 
 ## Zukunft
 ### Online-Präsenzen
@@ -25,7 +26,10 @@ Die Familie wünscht sich eine juristische Aufarbeitung. Es gab zahlreiche Drohb
 Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
 
 ### Veranstaltungen
-
+#### 11.02.2024
+[Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
+#### 9.2.24
+[Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
 
 
 ## Spendenkonto
