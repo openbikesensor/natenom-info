@@ -1,5 +1,3 @@
-# Natenom 
-
 Natenom, bürgerlich Andreas Mandalka (* 1980/1981; † 30. Januar 2024 bei Neuhausen), war ein deutscher Fahrradaktivist und Blogger. [Wikipedia](https://de.wikipedia.org/wiki/Natenom)
 
 Diese Seite versucht einen Überblick über das Leben und den Tod und zu schaffen und Informationen dazu, wie seinem und dem Wunsch seiner Familie entsprochen werden kann, dass seine Arbeit auch in Zukunft einen Beitrag leisten kann, die Sicherheit von Radfahrenden zu verbessern.
