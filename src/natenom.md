@@ -37,9 +37,9 @@ Der [ADFC Pforzeim-Enzkreis sammelt Spenden](https://www.fahrradstadt-pforzheim.
 - Bestattungs- und Anwaltskosten im Bezug auf den Unfall, soweit diese nicht von der Haftpflichtversicherung des Unfallverursachers oder der Rechtschutzversicherung Natenoms gedeckt sind (beendet am 6.2.24).
 - Weitere Juristische Aufarbeitung und Arbeit für die Sicherheit von Radfahrenden in seinem Sinne. 
 Spendenkonto und Überweisung:
-ADFC Pforzheim-Enzkreis
-IBAN DE65 6665 0085 0001 4325 91
-Überweisungstext „Natenom Zukunft“
+    ADFC Pforzheim-Enzkreis
+    IBAN DE65 6665 0085 0001 4325 91
+    Überweisungstext „Natenom Zukunft“
 
 
 ## Berichterstattung
@@ -90,5 +90,6 @@ Diese Seite wurde von den Mitgliedern des OpenBikeSensors e. V.  erstellt, in de
 [Kontakt/Impressum](https://www.openbikesensor.org/contact/)
 
 Ähnliche Seiten:
-https://www.nimms-rad.de/news/fahrrad-aktivist-getoetet-natenom/
-https://natenom.rip/
+
+[https://www.nimms-rad.de/news/fahrrad-aktivist-getoetet-natenom/](https://www.nimms-rad.de/news/fahrrad-aktivist-getoetet-natenom/)
+[https://natenom.rip/](https://natenom.rip/)
