@@ -1,0 +1,21 @@
+<script>
+    function toggleMenu() {
+      var x = document.getElementById("TOC");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+
+
+        var myContent = document.getElementById("TOC")
+        var myLinks = myContent.getElementsByTagName('a')
+
+        for (var i = 0; i<= myLinks.length;i++) {
+            var child = myLinks[i];
+            console.log(child);
+            child.onclick=toggleMenu;             
+        }
+
+</script>
