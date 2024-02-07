@@ -26,6 +26,7 @@ Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und sta
 ### Veranstaltungen
 #### 11.02.2024
 [Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
+
 #### 9.2.24
 [Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
 
@@ -35,10 +36,11 @@ Der [ADFC Pforzeim-Enzkreis sammelt Spenden](https://www.fahrradstadt-pforzheim.
 - Bestattungs- und Anwaltskosten im Bezug auf den Unfall, soweit diese nicht von der Haftpflichtversicherung des Unfallverursachers oder der Rechtschutzversicherung Natenoms gedeckt sind (beendet am 6.2.24).
 - Weitere Juristische Aufarbeitung und Arbeit für die Sicherheit von Radfahrenden in seinem Sinne. 
 Spendenkonto und Überweisung:
-    ADFC Pforzheim-Enzkreis
-    IBAN DE65 6665 0085 0001 4325 91
-    Überweisungstext „Natenom Zukunft“
-
+```
+ADFC Pforzheim-Enzkreis
+IBAN DE65 6665 0085 0001 4325 91
+Überweisungstext „Natenom Zukunft“
+```
 
 ## Berichterstattung
 ### zu Lebzeiten
