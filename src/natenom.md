@@ -12,16 +12,20 @@ Natenom wurde auf der Landstraße 574 bei Neuhausen am 30.01.2024 totgefahren.
 
 ## Gedenkveranstaltung am 11.02.2014
 Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+Zubringer 
 
 ## Zukunft
 ### Online-Präsenzen
-Es laufen Bestrebungen, alle Inhalte ([Blog](https://natenom.de/)/[Wiki](https://wiki.natenom.de/)) mindestens 10 Jahre weiter anzubieten. 
+Es laufen Bestrebungen, alle Inhalte ([Blog](https://natenom.de/)/[Wiki](https://wiki.natenom.de/)) mindestens 10 Jahre weiter anzubieten.
 
 ### Juristische Aufarbeitung
 Die Familie wünscht sich eine juristische Aufarbeitung. Es gab zahlreiche Drohbriefe und Anfeindungen im Alltag gegen Natenom. Auch der Frage, ob der Umgang mit seinen Anzeigen und Beschwerden korrekt war, sollte auch im Sinne aller, die ähnliches erleben, nachgegangen werden.
 
-### weitere Aktivitäten
+## weitere Aktivitäten
 Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
+
+### Veranstaltungen
+
 
 
 ## Spendenkonto
@@ -42,19 +46,23 @@ IBAN DE65 6665 0085 0001 4325 91
 ### nach seinem Tod
 #### 5.2.24
 - [BNN - Pforzheims Radfahrer wollen Natenom letzten Wunsch erfuellen](https://bnn.de/pforzheim/pforzheim-stadt/pforzheims-radfahrer-wollen-natenom-letzten-wunsch-erfuellen)
+
 #### 3.2.24
 - [BNN - Meinung Unfalltod von Batenom muss Weckruf fuer Radpolitik sein](https://bnn.de/pforzheim/pforzheim-stadt/meinung-unfalltod-von-natenom-muss-weckruf-fuer-radpolitik-sein)
+
 #### 2.2.24
 - [BNN - „Natenoms“ Unfalltod polarisiert: Wie die Pforzheimer Polizei mit dem Shitstorm umgeht](https://bnn.de/pforzheim/pforzheim-stadt/natenoms-unfalltod-polarisiert-wie-die-pforzheimer-polizei-mit-dem-shitstorm-umgeht)
 - [RND - „Die Fahrradwelt steht still“: Bekannter Radaktivist wird von Auto erfasst und stirbt](https://www.rnd.de/panorama/fahrradaktivist-natenom-andreas-mandalka-stirbt-nach-zusammenstoss-mit-auto-SO3DQLW3UZDFVA6PKE2RHPAPTM.html)
 - [ADFC FFM- Wenn der Überholabstand nicht mehr messbar ist…](https://www.adfc-frankfurt.de/2024/02/verein/wenn-der-ueberholabstand-nicht-mehr-messbar-ist/)
 - [TAZ - Fahrradaktivist Natenom tot](https://taz.de/Fahrradaktivist-Natenom-tot/!5989820/)
+
 #### 1.2.24
 - [FAZ - Bekannter Fahrradblogger kommt bei Unfall ums Leben](https://www.faz.net/aktuell/gesellschaft/menschen/fahrradblogger-natenom-andreas-mandalka-kommt-bei-unfall-ums-leben-19489783.html)
 - [Tagesschau - Fahrradaktivist "Natenom" aus Pforzheim stirbt bei Unfall: So reagiert der ADFC ](https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-fahrradaktivist-aus-pforzheim-stirbt-bei-unfall-so-reagiert-der-adfc-100.html)
 - [Spiegel - Andreas Mandalka: Fahrradaktivist stirbt bei Verkehrsunfall - Er war hier einfach der auf dem Fahrrad](https://www.spiegel.de/auto/andreas-mandalka-fahrradaktivist-stirbt-bei-verkehrsunfall-er-war-hier-einfach-der-auf-dem-fahrrad-a-12e47b4a-eb37-434d-9a2f-c026ed74a51e) [Alternativer Link]( https://archive.is/JaBj0)
 - [BNN - Ein Geisterrad für „Natenom“: Fahrradszene plant Aktionen in Pforzheim und ganz Deutschland](https://bnn.de/pforzheim/pforzheim-stadt/geisterrad-fuer-natenom-fahrrad-aktivisten-planen-viele-gedenkaktionen)
 - [BNN - Unfalltod von Radaktivist „Natenom“: Pforzheimer Staatsanwaltschaft ermittelt gegen Autofahrer ](https://bnn.de/pforzheim/enzkreis/neuhausen/unfalltod-von-radaktivist-natenom-ermittlungen-gegen-autofahrer)
+
 #### 31.1.24
 - [Kölner Stadtanzeiger - Bekannter Rad-Aktivist stirbt bei Verkehrsunfall – Gedenkfahrt auch in Köln](https://www.ksta.de/panorama/natenom-tot-bekannter-fahrrad-aktivist-andreas-mandalka-stirbt-bei-unfall-mit-auto-730050)
 - [Presseportal - POL-Pforzheim: (Enzkreis) Neuhausen - Tödlicher Verkehrsunfall](https://www.presseportal.de/blaulicht/pm/137462/5703634)
