@@ -10,6 +10,7 @@ Natenom wurde auf der Landstraße 574 bei Neuhausen am 30.01.2024 totgefahren.
 
 ## Gedenkveranstaltung am 11.02.2014
 Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+
 [Zubringer aus Stuttgart-Vaihingen](https://twitter.com/ADFC_BW/status/1754782704443220365) 
 
 
@@ -19,17 +20,6 @@ Es laufen Bestrebungen, alle Inhalte ([Blog](https://natenom.de/)/[Wiki](https:/
 
 ### Juristische Aufarbeitung
 Die Familie wünscht sich eine juristische Aufarbeitung. Es gab zahlreiche Drohbriefe und Anfeindungen im Alltag gegen Natenom. Auch der Frage, ob der Umgang mit seinen Anzeigen und Beschwerden korrekt war, sollte auch im Sinne aller, die ähnliches erleben, nachgegangen werden.
-
-## weitere Aktivitäten
-Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
-
-### Veranstaltungen
-#### 11.02.2024
-[Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
-
-#### 9.2.24
-[Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
-
 
 ## Spendenkonto
 Der [ADFC Pforzeim-Enzkreis sammelt Spenden](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/02/spendenaufruf-natenom/) mit folgendem Ziel:
@@ -41,6 +31,16 @@ ADFC Pforzheim-Enzkreis
 IBAN DE65 6665 0085 0001 4325 91
 Überweisungstext „Natenom Zukunft“
 ```
+
+## weitere Aktivitäten
+Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
+
+### Veranstaltungen
+#### 11.02.2024
+[Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
+
+#### 9.2.24
+[Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
 
 ## Berichterstattung
 ### zu Lebzeiten
