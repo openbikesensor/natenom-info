@@ -1,0 +1,134 @@
+<style>
+    html {
+      color: #ddd;
+      background-color: #222;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+     /* Style the navigation menu */
+
+body {
+    background-color: #222;
+    color: #ddd;
+    font-family: sans-serif;
+    max-width:600pt;
+    margin-left: 60pt;
+    }
+
+
+#TOC {
+  border-radius: 3pt;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  display: none;
+}
+
+/* Style navigation menu links */
+#TOC a {
+  color: white;
+  padding: 3px 4px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+#TOC a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+#TOC a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+#TOC > ul {
+margin-left:2em;
+margin-right: 2em;
+}
+
+#logo {
+z-index: 10;
+position: fixed;
+right: 20pt;
+top: 20pt;
+width: 300pt;
+height: 300pt;
+}
+
+    a.menu {
+    color: white;
+    font-size:28pt;
+    position:fixed;
+
+    margin: 2pt;
+    width: 20pt;
+    height: 20pt;
+z-index: 10;
+left: 8pt;
+top: 8pt;
+style
+text-decoration: none;
+    }
+    a.menu:link {
+text-decoration: none;
+}
+a.menu:visited {
+text-decoration: none;
+}
+a.menu:hover {
+text-decoration: none;
+}
+a.menu:active {
+text-decoration: none;
+}
+a:link{
+color: #aaa;
+    }
+a:visited{
+color: #aaa;
+    }
+    a:hover{
+color: #fff;
+    }
+    a:active{
+    color: #fff;
+    }
+</style>
+<script>
+    function toggleMenu() {
+      var x = document.getElementById("TOC");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+</script>
