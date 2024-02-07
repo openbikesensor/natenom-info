@@ -23,7 +23,9 @@ Die Familie wünscht sich eine juristische Aufarbeitung. Es gab zahlreiche Drohb
 
 ## Spendenkonto
 Der [ADFC Pforzeim-Enzkreis sammelt Spenden](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/02/spendenaufruf-natenom/) mit folgendem Ziel:
+
 - Bestattungs- und Anwaltskosten im Bezug auf den Unfall, soweit diese nicht von der Haftpflichtversicherung des Unfallverursachers oder der Rechtschutzversicherung Natenoms gedeckt sind (beendet am 6.2.24).
+
 - Weitere Juristische Aufarbeitung und Arbeit für die Sicherheit von Radfahrenden in seinem Sinne. 
 Spendenkonto und Überweisung:
 ```
