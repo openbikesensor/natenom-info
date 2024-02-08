@@ -24,27 +24,28 @@ Dienstag Abend (gegen 19:20 Uhr), 30. Januar 2024. Auf der Landstraße L574 (Pfo
 
 Quelle: [Meldung der Pforzheimer Polizei nach Informationen der dpa](https://www.ka-news.de/region/pforzheim/fahrrad-aktivist-natenom-stirbt-nach-auto-crash-war-es-fahrlaessige-toetung-art-3082032) [abgerufen 2024-02-07]
 
-## Zum Gedenken
+## Gedenk-Veranstaltungen 
 
-### Gedenk-Veranstaltung am 11.02.2024 vor Ort
+### 11.02.2024 vor Ort
 
-Am 11.02.2024 trifft sich die Rad-Community zu einer Gedenk-Fahrt zur Unfallstelle. Am Unfall-Ort wird ein GhostBikes aufgestellt.
-[Veranstaltungsinformationen via Fahrradstadt Pforzheim](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+Am 11.02.2024, 11:00 Uhr trifft sich die Rad-Community zu einer Gedenk-Fahrt zur Unfallstelle (dort ab 13:00 Uhr Schweige-Minute). Anschließend wird am Unfall-Ort ein GhostBikes aufgestellt.  
+[Veranstaltungsinformationen](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/) (Fahrradstadt Pforzheim)
 
-Verschiedene Gruppen reisen aus benachbarten Regionen an (Zubringer organisiert via ADFC BaWü):
+Verschiedene Gruppen reisen aus benachbarten Regionen an  
+(Zubringer organisiert via ADFC BaWü):
 
 * [Karlsruhe 08:00 Uhr - via Durlach, Sollingen, Wilferdingen-Singen](https://sueden.social/@ADFC_BW/111895936869881398)
-* [Stuttgart-Vaihingen 07:00 Uhr via Warmbronn, Renningen, Malmsheim, Weil der Stadt, Würmtal](https://sueden.social/@ADFC_BW/111883875825405533)
+* [Stuttgart-Vaihingen 07:00 Uhr – via Warmbronn, Renningen, Malmsheim, Weil der Stadt, Würmtal](https://sueden.social/@ADFC_BW/111883875825405533)
 
 
-### bundesweite Schweige-Minute
+### 11.02.2024 bundesweite Schweige-Minute
 
 [13:00 Uhr](https://changing-cities.org/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten/) (Changing Cities)
 
 mit aktivierter CriticalMaps-App (CMA)  
 https://www.criticalmaps.net
 
-### Gedenk-Veranstaltungen am 11.02.2024 dezentral in Deutschland
+### 11.02.2024 dezentrale Gedenk-Fahrten in Deutschland
 
 * [Berlin, 12:30 Uhr](https://changing-cities.org/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten/) (Changing Cities - Infos siehe Berlin weiter unten auf der Seite)
 * [Bremen, 12:30 Uhr](https://criticalmass.in/bremen/2024-02-11) (CM Bremen)
@@ -63,7 +64,7 @@ https://www.criticalmaps.net
 * [Offenburg, 12:30 Uhr](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og) (ADFC Offenburg)
 * [Wiesbaden, 11:00 Uhr - Zubringer nach Mainz](https://toot.cm-social.com/@CriticalMassMainz/111895595586784224) (CM Mainz/Wiesbaden)
 
-### Ride of Silence, Die-In und andere Gedenk-Fahrten dezentral
+### Weitere Ride of Silence, Die-In und Gedenk-Fahrten dezentral
 
 * [Göttingen, 09.02., 17:00 Uhr](https://radiosocial.de/@jumpy619/111886791410363361) (CM Göttingen)
 * [Gütersloh, 09.02., 17:00 Uhr](https://social.rebellion.global/@xr_bielefeld/111877856228075724) (CM Gütersloh)
@@ -103,15 +104,7 @@ IBAN DE65 6665 0085 0001 4325 91
 
 Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
 
-### Veranstaltungen
 
-#### 11.02.2024
-
-[Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
-
-#### 9.2.24
-
-[Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
 
 ## Berichterstattung
 
