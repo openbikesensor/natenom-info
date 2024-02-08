@@ -12,8 +12,12 @@ Er scheute sich dabei nicht, sein [Recht](https://wiki.natenom.de/docs/mobilitae
 
 Natenom hat die Missstände transparent und unübersehbar gemacht. Damit hat er leider viele Feinde heraufbeschworen. Dennoch war er offen, mit ihnen dazu in den Dialog zu treten. Ein Versuch, sich und sein Handeln zu erklären: [“Miteinander reden statt übereinander :) – Antwort auf Kommentar eines Radfahrers aus der Nachbarschaft”](https://natenom.de/2021/04/miteinander-reden-statt-uebereinander/).
 
-## Blog
-In seinem Blog [natenom.de](https://natenom.de/) berichtete er ausführlich zu Themen, die ihn interessierten und insbesonder zu seinen Erlebnissen im Straßenverkehr und seine meistens abgelehnten Hilfesuche bei Politik, Polizei und Staatsanwaltschaft, gegen gefährliches und bedrohendes Verhalten vorzugehen. Zudem war er auf [Mastodon](https://digitalcourage.social/@natenom) aktiv.
+## Natenoms Blog, Wiki & Social Media
+In seinem Blog [natenom.de](https://natenom.de/) berichtete Andreas ausführlich zu Themen, die ihn interessierten. Er teilte sein Wissen rund um Minimalismus, veröffentlichte Fotos und verfasste Anwender-Berichte z. B. zum OpenBikeSensor oder SimRa. Insbesondere schrieb er jedoch zu seinen Erlebnissen im Straßenverkehr und seine – meistens abgelehnten – Hilfe-Gesuche bei Politik, Polizei und Staatsanwaltschaft, gegen gefährliches und bedrohendes Verhalten vorzugehen.
+
+In [Natenoms Wiki](https://wiki.natenom.de/docs/) sammelte er Informationen zu verschiedenen Themen – angefangen von Ernährung über sein liebstes Fortbewegungsmittel, das Fahrrad, bis hin zu Open Source-Themen und Müll-Sammeln am Straßenrand (plogging).
+
+Zudem war er im Fediverse aktiv als Radfahrender via [@natenom](https://digitalcourage.social/@natenom) und als Kagube via [@ploggifanti](https://plushies.social/@ploggifanti). Der kleine Elefant hatte übrigens auch ein eigenes [Kagube-Blog](https://kagube.de/).
 
 ## Tod
 Natenom wurde auf der Landstraße 574 bei Neuhausen am 30.01.2024 totgefahren.
