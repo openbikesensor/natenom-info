@@ -13,6 +13,8 @@ Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghos
 
 [Zubringer aus Stuttgart-Vaihingen](https://twitter.com/ADFC_BW/status/1754782704443220365) 
 
+[Zubringer aus Karlsruhe](https://mastodon.online/@adfc_karlsruhe/111892099601269229)
+
 
 ## Zukunft
 ### Online-Präsenzen
@@ -41,9 +43,22 @@ Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und sta
 #### 11.02.2024
 [Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
 
+
+[Bremen - 12:30 Präsident-Kennedy-Platz](https://toot.cm-social.com/@CriticalMassBremen/111891782555819748)
+
+[Dortmund - 12:45 Treffpunkt wird noch festgelegt](https://ruhr.social/@DeinRUDOLF/111886621471771645)
+
+[Dresden - 13 Uhr Kulturpalast](https://twitter.com/Azetbur/status/1755503766743212309)
+
+[Duisburg - 14 Uhr Lifesaver Brunnen](https://twitter.com/CM_Duisburg/status/1755358248566202798)
+
 [Essen - 12:45 Verkehrs- und Umweltzentrum, Kopstadtplatz 12](https://radentscheid-essen.de/aktuelles/pressemitteilung-die-essener-radverkehrsinitiativen-organisieren-eine-gedenkfahrt-zum-tod-des-fahrradaktivisten-andreas-mandalka/)
 
 [Frankfurt am Main - 12:30 Alte Oper](https://hessen.social/@thomasgoldberg/111891549015722235)
+
+[Hamburg 12:45 Sievekingplatz 2](https://norden.social/@ADFC_Hamburg/111895232772546734)
+
+[Kassel - 14:45 Fridericianum](https://twitter.com/radberger/status/1755341019443343595)
 
 [Offenburg  ab 12:30 Uhr (Treffpunkt Rathaus)](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og)
 
