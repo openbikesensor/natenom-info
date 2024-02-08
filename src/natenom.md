@@ -59,15 +59,20 @@ https://www.criticalmaps.net
 * [Leipzig, 12:30 Uhr](https://verkehrswende-le.de/event/11-02-2024-gedenkfahrt-fuer-natenom-leipzig/) (Verkehrswende Leipzig)
 * [Mainz, 12:15 Uhr](https://toot.cm-social.com/@CriticalMassMainz/111895576983531000) (CM Mainz)
 * [Marburg, 13:00 Uhr](https://marburg-biedenkopf-mobil.de/2024/02/08/aufruf-fuer-marburg-bundesweite-schweigeminute/) (IG Mobilität)
+* [München, Zeit in Planung](https://muenchen.social/@Labonitamascota/111891604825201437) (CM München)
 * [Offenburg, 12:30 Uhr](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og) (ADFC Offenburg)
 * [Wiesbaden, 11:00 Uhr - Zubringer nach Mainz](https://toot.cm-social.com/@CriticalMassMainz/111895595586784224) (CM Mainz/Wiesbaden)
 
-### Ride of Silence und andere Gedenk-Fahrten dezentral
+### Ride of Silence, Die-In und andere Gedenk-Fahrten dezentral
 
-* [Göttingen, 09.02., 17:00 Uhr](https://radiosocial.de/@jumpy619/111886791410363361)
-* [Gütersloh, 09.02., 17:00 Uhr](https://social.rebellion.global/@xr_bielefeld/111877856228075724)
-* [Kiel, 10.02., 14:45 Uhr](https://mstdn.social/@spiegmax/111895577511600059)
-* [Würzburg, 09.02., 18:00 Uhr](https://social.tchncs.de/@steampixel/111883711345881264)
+* [Göttingen, 09.02., 17:00 Uhr](https://radiosocial.de/@jumpy619/111886791410363361) (CM Göttingen)
+* [Gütersloh, 09.02., 17:00 Uhr](https://social.rebellion.global/@xr_bielefeld/111877856228075724) (CM Gütersloh)
+* [Karlsruhe - mit Weiterfahrt nach Pforzheim, 23.02., 16:30 Uhr](https://karlsruhe-social.de/@criticalmass/111880748013589790) (CM Karlsruhe/Pforzheim)
+* [Kiel, 10.02., 14:45 Uhr](https://mstdn.social/@spiegmax/111895577511600059) (CM Kiel)
+* [Köln, 06.02., 18:00 Uhr](https://social.cologne/@ADFCKoeln/111879871018494369) (ADFC Köln)
+* [Ludwigshafen, 02.02., 18:00 Uhr](https://criticalmass.in/ludwigshafen-am-rhein/2024-02-02) (CM Ludwigshafen)
+* Stuttgart, 31.01., 19:00 Uhr (CM Stuttgart)
+* [Würzburg, 09.02., 18:00 Uhr](https://social.tchncs.de/@steampixel/111883711345881264) (CM Würzburg)
 
 
 ## Zukunft
