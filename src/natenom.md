@@ -51,6 +51,8 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 
 [Bremen - 12:30 Präsident-Kennedy-Platz](https://toot.cm-social.com/@CriticalMassBremen/111891782555819748)
 
+[Darmstadt - 14:00 Friedensplatz](https://radentscheid-darmstadt.de/2024/02/07/in-gedenken-an-natemon-fuer-sichere-radwege-in-darmstadt-hessen-und-darueber-hinaus/)
+
 [Dortmund - 12:45 Treffpunkt wird noch festgelegt](https://ruhr.social/@DeinRUDOLF/111886621471771645)
 
 [Dresden - 13 Uhr Kulturpalast](https://twitter.com/Azetbur/status/1755503766743212309)
@@ -64,6 +66,8 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 [Hamburg 12:45 Sievekingplatz 2](https://norden.social/@ADFC_Hamburg/111895232772546734)
 
 [Kassel - 14:45 Fridericianum](https://twitter.com/radberger/status/1755341019443343595)
+
+[Mainz - 12.15 Uhr Goetheplatz](https://toot.cm-social.com/@CriticalMassMainz/111895576983531000)
 
 [Offenburg  ab 12:30 Uhr (Treffpunkt Rathaus)](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og)
 
