@@ -41,7 +41,9 @@ Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und sta
 #### 11.02.2024
 [Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
 
-[Essen - Radverkehrsinitiativen organisieren eine Gedenkfahrt zum Tod des Fahrradaktivisten Andreas Mandalka](https://radentscheid-essen.de/aktuelles/pressemitteilung-die-essener-radverkehrsinitiativen-organisieren-eine-gedenkfahrt-zum-tod-des-fahrradaktivisten-andreas-mandalka/)
+[Essen - 12:45 Verkehrs- und Umweltzentrum, Kopstadtplatz 12](https://radentscheid-essen.de/aktuelles/pressemitteilung-die-essener-radverkehrsinitiativen-organisieren-eine-gedenkfahrt-zum-tod-des-fahrradaktivisten-andreas-mandalka/)
+
+[Offenburg  ab 12:30 Uhr (Treffpunkt Rathaus)](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og)
 
 #### 9.2.24
 [Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
