@@ -20,7 +20,9 @@ In [Natenoms Wiki](https://wiki.natenom.de/docs/) sammelte er Informationen zu v
 Zudem war er im Fediverse aktiv als Radfahrender via [@natenom](https://digitalcourage.social/@natenom) und als Kagube via [@ploggifanti](https://plushies.social/@ploggifanti). Der kleine Elefant hatte übrigens auch ein eigenes [Kagube-Blog](https://kagube.de/).
 
 ## Tod
-Natenom wurde auf der Landstraße 574 bei Neuhausen am 30.01.2024 totgefahren.
+Dienstag Abend (gegen 19:20 Uhr), 30. Januar 2024. Auf der Landstraße L574 (Pforzheimer Straße) von Neuhausen nach Schellbronn im Süden Pforzheims fährt Andreas auf seinem Rad nach Hause. Es ist bereits dunkel. In seiner Warnweste ist er gut sichtbar. Und dennoch rast ein Autofahrer von hinten mit voller Wucht in ihn hinein. Er wird auf die Frontscheibe des Fahrzeugs und in der Folge über dieses hinweg geschleudert. Trotz Wiederbelebungs-Maßnahmen verstirbt er noch an der Unfallstelle aufgrund schwerster Verletzungen.
+
+Quelle: [Meldung der Pforzheimer Polizei nach Informationen der dpa](https://www.ka-news.de/region/pforzheim/fahrrad-aktivist-natenom-stirbt-nach-auto-crash-war-es-fahrlaessige-toetung-art-3082032) [abgerufen 2024-02-07]
 
 ## Gedenkveranstaltung am 11.02.2014
 Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
