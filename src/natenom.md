@@ -100,11 +100,19 @@ IBAN DE65 6665 0085 0001 4325 91
 Überweisungstext „Natenom Zukunft“
 ```
 
-## weitere Aktivitäten
+## Aktivitäten in Gedenken an Natenom & für sichere Fahrrad-Mobilität
 
 Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
 
+### Aufruf zu Sprach-Nachrichten für Podcasts
 
+* [Regines Radsalon](https://toot.bike/@regines_radsalon/111850253142766948) (Regine Heidorn)
+* [She drives Mobility](https://norden.social/@SheDrivesMobility/111883725195446302) (Katja Diehl)
+
+### Bekleidung, Accessoires & Rad-Zubehör
+
+* [Patch für Jacke, Rucksack, Fahrrad-Tasche](https://mastodon.social/@glckskind/111880036476508941) (Angebot Glckskind)
+* [Reflektierende Aufkleber](https://mastodon.social/@glckskind/111885537001972948) (Angebot Glckskind)
 
 ## Berichterstattung
 
