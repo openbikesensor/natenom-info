@@ -2,6 +2,16 @@ Andreas Mandalka, bekannt unter seinem Pseudonym Natenom (* 1980/1981; † 30. J
 
 Diese Seite versucht, einen Überblick über Natenoms Leben und Tod zu geben. Es drückt die Anteilnahme der Fahrrad-Community aus. Ferner sammeln wir hier Informationen dazu, wie seinem und dem Wunsch seiner Familie entsprochen werden kann, dass seine Arbeit auch in Zukunft einen Beitrag leisten kann, die Sicherheit von Radfahrenden zu verbessern.
 
+## Wer war Natenom?
+
+Natenoms Hingabe fürs Rad-Fahren und seine verkehrs-politischen Aktionen richteten sich darauf, die Zahl der Verletzten und Toten zu minimieren. Als Alltags-Radler setzte er sich unermüdlich für gleiche Rechte und Pflichten im Straßen-Verkehr ein. Er forderte, seine Wege zügig, stress-frei und sicher zurücklegen zu können. Er mahnte schlechte, ungepflegte und lebensbedrohliche Infrastruktur an.
+
+Nur zwei seiner letzten Beiträge, veröffentlicht im Januar 2024: [“Eine von den Verantwortlichen entschärfte Gefahrenstelle ist auch weiterhin eine Gefahrenstelle”](https://natenom.de/2024/01/entschaerfte-gefahrenstelle-in-salmbach-ist-weiterhin-eine-gefahrenstelle/) und [“Keine Rückmeldung, keine Hinweise, kein Interesse an Radfahrern”](https://natenom.de/2024/01/keine-rueckmeldung-keine-hinweise-kein-interesse-an-radfahrern/). Leider hatte er dazu reichlich Anlass. [Nichts passiert…](https://wiki.natenom.de/docs/mobilitaet/nichts_passiert/) Stattdessen sah er sich persönlichen Anfeindungen gegenüber. Nicht selten übten die lokalen Auto-Fahrenden motorisierte Gewalt an ihm aus.
+
+Er scheute sich dabei nicht, sein [Recht](https://wiki.natenom.de/docs/mobilitaet/recht/) zu vertreten und die Ergebnisse seines Bemühens zu publizieren – insbesondere wenn seine Kommune mit [“Pforzheimer Maß”](https://wiki.natenom.de/docs/mobilitaet/pforzheimer_mass/) zugunsten von Auto-Fahrenden entschied, wie beispielsweise in diesem Fall: [“Laut Gutachter sind das 1,4 m Abstand – StVO verlangt 2 m – Gericht stellte Verfahren trotzdem ein”](https://natenom.de/2021/10/laut-gutachter-sind-das-14-m-abstand-stvo-verlangt-2-m-gericht-stellte-verfahren-trotzdem-ein/).
+
+Natenom hat die Missstände transparent und unübersehbar gemacht. Damit hat er leider viele Feinde heraufbeschworen. Dennoch war er offen, mit ihnen dazu in den Dialog zu treten. Ein Versuch, sich und sein Handeln zu erklären: [“Miteinander reden statt übereinander :) – Antwort auf Kommentar eines Radfahrers aus der Nachbarschaft”](https://natenom.de/2021/04/miteinander-reden-statt-uebereinander/).
+
 ## Blog
 In seinem Blog [natenom.de](https://natenom.de/) berichtete er ausführlich zu Themen, die ihn interessierten und insbesonder zu seinen Erlebnissen im Straßenverkehr und seine meistens abgelehnten Hilfesuche bei Politik, Polizei und Staatsanwaltschaft, gegen gefährliches und bedrohendes Verhalten vorzugehen. Zudem war er auf [Mastodon](https://digitalcourage.social/@natenom) aktiv.
 
