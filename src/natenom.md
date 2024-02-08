@@ -43,7 +43,13 @@ Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und sta
 
 [Essen - 12:45 Verkehrs- und Umweltzentrum, Kopstadtplatz 12](https://radentscheid-essen.de/aktuelles/pressemitteilung-die-essener-radverkehrsinitiativen-organisieren-eine-gedenkfahrt-zum-tod-des-fahrradaktivisten-andreas-mandalka/)
 
+[Frankfurt am Main - 12:30 Alte Oper](https://hessen.social/@thomasgoldberg/111891549015722235)
+
 [Offenburg  ab 12:30 Uhr (Treffpunkt Rathaus)](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og)
+
+[Leipzig 12:30 Augustusplatz](https://climatejustice.events/events/f9ecdb32-3926-41e5-96dc-ad80fb0a8a27)
+
+[Marburg 13:00 Uhr Elisabeth-Blochmann-Platz ume 13 Uhr](https://social.tchncs.de/@polly/111891484962158461)
 
 #### 9.2.24
 [Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
