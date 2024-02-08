@@ -24,20 +24,64 @@ Dienstag Abend (gegen 19:20 Uhr), 30. Januar 2024. Auf der Landstraße L574 (Pfo
 
 Quelle: [Meldung der Pforzheimer Polizei nach Informationen der dpa](https://www.ka-news.de/region/pforzheim/fahrrad-aktivist-natenom-stirbt-nach-auto-crash-war-es-fahrlaessige-toetung-art-3082032) [abgerufen 2024-02-07]
 
-## Gedenkveranstaltung am 11.02.2014
-Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+## Zum Gedenken
 
-[Zubringer aus Stuttgart-Vaihingen](https://twitter.com/ADFC_BW/status/1754782704443220365) 
+### Gedenk-Veranstaltung am 11.02.2024 vor Ort
+
+Am 11.02.2024 trifft sich die Rad-Community zu einer Gedenk-Fahrt zur Unfallstelle. Am Unfall-Ort wird ein GhostBikes aufgestellt.
+[Veranstaltungsinformationen via Fahrradstadt Pforzheim](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+
+Verschiedene Gruppen reisen aus benachbarten Regionen an (Zubringer organisiert via ADFC BaWü):
+
+* [Karlsruhe 08:00 Uhr - via Durlach, Sollingen, Wilferdingen-Singen](https://sueden.social/@ADFC_BW/111895936869881398)
+* [Stuttgart-Vaihingen 07:00 Uhr via Warmbronn, Renningen, Malmsheim, Weil der Stadt, Würmtal](https://sueden.social/@ADFC_BW/111883875825405533)
+
+
+### bundesweite Schweige-Minute
+
+[13:00 Uhr](https://changing-cities.org/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten/) (Changing Cities)
+
+mit aktivierter CriticalMaps-App (CMA)  
+https://www.criticalmaps.net
+
+### Gedenk-Veranstaltungen am 11.02.2024 dezentral in Deutschland
+
+* [Berlin, 12:30 Uhr](https://changing-cities.org/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten/) (Changing Cities - Infos siehe Berlin weiter unten auf der Seite)
+* [Bremen, 12:30 Uhr](https://criticalmass.in/bremen/2024-02-11) (CM Bremen)
+* [Darmstadt, 14:00 Uhr](https://radentscheid-darmstadt.de/2024/02/07/in-gedenken-an-natemon-fuer-sichere-radwege-in-darmstadt-hessen-und-darueber-hinaus/) (Radentscheid Darmstadt)
+* [Dortmund, 12:45 Uhr](https://changing-cities.org/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten/) (Changing Cities - Infos siehe Dortmund weiter unten auf der Seite)
+* [Dresden, 13:00 Uhr](https://dresden.network/@Azetbur/111891891643639437)
+* [Duisburg, 14:00 Uhr](https://mastodon.social/@CyclingAnn/111895325805246252)
+* [Essen, 12:45 Uhr](https://radentscheid-essen.de/aktuelles/pressemitteilung-die-essener-radverkehrsinitiativen-organisieren-eine-gedenkfahrt-zum-tod-des-fahrradaktivisten-andreas-mandalka/) (Radentscheid Essen)
+* [Frankfurt am Main, 12:30 Uhr](https://hessen.social/@thomasgoldberg/111891549015722235) (verschiedene Initiativen)
+* [Gießen, 11:00 Uhr](https://subversive.zone/@Tante_Stahlbrecher/111896250736944004) (CM Gießen)
+* [Hamburg, 12:45 Uhr](https://toot.cm-social.com/@CriticalMassHamburg/111896060487345298) (ADFC HH)
+* [Leipzig, 12:30 Uhr](https://verkehrswende-le.de/event/11-02-2024-gedenkfahrt-fuer-natenom-leipzig/) (Verkehrswende Leipzig)
+* [Mainz, 12:15 Uhr](https://toot.cm-social.com/@CriticalMassMainz/111895576983531000) (CM Mainz)
+* [Marburg, 13:00 Uhr](https://marburg-biedenkopf-mobil.de/2024/02/08/aufruf-fuer-marburg-bundesweite-schweigeminute/) (IG Mobilität)
+* [Offenburg, 12:30 Uhr](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og) (ADFC Offenburg)
+* [Wiesbaden, 11:00 Uhr - Zubringer nach Mainz](https://toot.cm-social.com/@CriticalMassMainz/111895595586784224) (CM Mainz/Wiesbaden)
+
+### Ride of Silence und andere Gedenk-Fahrten dezentral
+
+* [Göttingen, 09.02., 17:00 Uhr](https://radiosocial.de/@jumpy619/111886791410363361)
+* [Gütersloh, 09.02., 17:00 Uhr](https://social.rebellion.global/@xr_bielefeld/111877856228075724)
+* [Kiel, 10.02., 14:45 Uhr](https://mstdn.social/@spiegmax/111895577511600059)
+* [Würzburg, 09.02., 18:00 Uhr](https://social.tchncs.de/@steampixel/111883711345881264)
 
 
 ## Zukunft
+
 ### Online-Präsenzen
+
 Es laufen Bestrebungen, alle Inhalte ([Blog](https://natenom.de/)/[Wiki](https://wiki.natenom.de/)) mindestens 10 Jahre weiter anzubieten.
 
 ### Juristische Aufarbeitung
+
 Die Familie wünscht sich eine juristische Aufarbeitung. Es gab zahlreiche Drohbriefe und Anfeindungen im Alltag gegen Natenom. Auch der Frage, ob der Umgang mit seinen Anzeigen und Beschwerden korrekt war, sollte auch im Sinne aller, die ähnliches erleben, nachgegangen werden.
 
 ## Spendenkonto
+
 Der [ADFC Pforzeim-Enzkreis sammelt Spenden](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/02/spendenaufruf-natenom/) mit folgendem Ziel:
 
 - Bestattungs- und Anwaltskosten im Bezug auf den Unfall, soweit diese nicht von der Haftpflichtversicherung des Unfallverursachers oder der Rechtschutzversicherung Natenoms gedeckt sind (beendet am 6.2.24).
@@ -51,34 +95,45 @@ IBAN DE65 6665 0085 0001 4325 91
 ```
 
 ## weitere Aktivitäten
+
 Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
 
 ### Veranstaltungen
+
 #### 11.02.2024
+
 [Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
 
 #### 9.2.24
+
 [Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
 
 ## Berichterstattung
+
 ### zu Lebzeiten
+
 - 29.6.21 [Interview mit Mirjam Brinkmann, ADFC-BW](https://bw.adfc.de/artikel/interview-mit-einem-aktivisten-fuer-sicheren-ueberholabstand)
 - 4.12.19 [Interview in der ZEIT](https://www.zeit.de/mobilitaet/2019-12/radfahren-landstrassen-mut-erfahrungen-natenom-blog)
 
 ### nach seinem Tod
+
 #### 5.2.24
+
 - [BNN - Pforzheims Radfahrer wollen Natenom letzten Wunsch erfuellen](https://bnn.de/pforzheim/pforzheim-stadt/pforzheims-radfahrer-wollen-natenom-letzten-wunsch-erfuellen)
 
 #### 3.2.24
+
 - [BNN - Meinung Unfalltod von Batenom muss Weckruf fuer Radpolitik sein](https://bnn.de/pforzheim/pforzheim-stadt/meinung-unfalltod-von-natenom-muss-weckruf-fuer-radpolitik-sein)
 
 #### 2.2.24
+
 - [BNN - „Natenoms“ Unfalltod polarisiert: Wie die Pforzheimer Polizei mit dem Shitstorm umgeht](https://bnn.de/pforzheim/pforzheim-stadt/natenoms-unfalltod-polarisiert-wie-die-pforzheimer-polizei-mit-dem-shitstorm-umgeht)
 - [RND - „Die Fahrradwelt steht still“: Bekannter Radaktivist wird von Auto erfasst und stirbt](https://www.rnd.de/panorama/fahrradaktivist-natenom-andreas-mandalka-stirbt-nach-zusammenstoss-mit-auto-SO3DQLW3UZDFVA6PKE2RHPAPTM.html)
 - [ADFC FFM- Wenn der Überholabstand nicht mehr messbar ist…](https://www.adfc-frankfurt.de/2024/02/verein/wenn-der-ueberholabstand-nicht-mehr-messbar-ist/)
 - [TAZ - Fahrradaktivist Natenom tot](https://taz.de/Fahrradaktivist-Natenom-tot/!5989820/)
 
 #### 1.2.24
+
 - [FAZ - Bekannter Fahrradblogger kommt bei Unfall ums Leben](https://www.faz.net/aktuell/gesellschaft/menschen/fahrradblogger-natenom-andreas-mandalka-kommt-bei-unfall-ums-leben-19489783.html)
 - [Tagesschau - Fahrradaktivist "Natenom" aus Pforzheim stirbt bei Unfall: So reagiert der ADFC ](https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-fahrradaktivist-aus-pforzheim-stirbt-bei-unfall-so-reagiert-der-adfc-100.html)
 - [Spiegel - Andreas Mandalka: Fahrradaktivist stirbt bei Verkehrsunfall - Er war hier einfach der auf dem Fahrrad](https://www.spiegel.de/auto/andreas-mandalka-fahrradaktivist-stirbt-bei-verkehrsunfall-er-war-hier-einfach-der-auf-dem-fahrrad-a-12e47b4a-eb37-434d-9a2f-c026ed74a51e) [Alternativer Link]( https://archive.is/JaBj0)
@@ -86,6 +141,7 @@ Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und sta
 - [BNN - Unfalltod von Radaktivist „Natenom“: Pforzheimer Staatsanwaltschaft ermittelt gegen Autofahrer ](https://bnn.de/pforzheim/enzkreis/neuhausen/unfalltod-von-radaktivist-natenom-ermittlungen-gegen-autofahrer)
 
 #### 31.1.24
+
 - [Kölner Stadtanzeiger - Bekannter Rad-Aktivist stirbt bei Verkehrsunfall – Gedenkfahrt auch in Köln](https://www.ksta.de/panorama/natenom-tot-bekannter-fahrrad-aktivist-andreas-mandalka-stirbt-bei-unfall-mit-auto-730050)
 - [Presseportal - POL-Pforzheim: (Enzkreis) Neuhausen - Tödlicher Verkehrsunfall](https://www.presseportal.de/blaulicht/pm/137462/5703634)
 - [Spiegel -  Baden-Württemberg: Radfahr-Aktivist stirbt offenbar bei Verkehrsunfall](https://www.spiegel.de/panorama/baden-wuerttemberg-radfahr-aktivist-stirbt-offenbar-bei-verkehrsunfall-a-ffba9445-5d0b-4ffb-b544-3df59427e7ea)
@@ -94,6 +150,7 @@ Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und sta
 - [Pforzheimer Fahrrad-Aktivist „Natenom“ stirbt bei Unfall mit Auto](https://bnn.de/pforzheim/enzkreis/pforzheimer-fahrrad-aktivist-natenom-stirbt-bei-kollision-mit-einem-auto)
 
 ## weitere Links
+
  - [Nachruf Fahrradstadt-Pforzheim.de](https://www.fahrradstadt-pforzheim.de/index.php/2024/01/31/natenoms-nachruf/)
  - [Nachruf ADFC-BW](https://bw.adfc.de/artikel/nachruf-natenom)
  - [Nachruf ADFC](https://www.adfc.de/neuigkeit/pforzheimer-fahrradaktivist-bei-unfall-gestorben)
@@ -103,6 +160,7 @@ Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und sta
 
 
 ## Inhalt
+
 Diese Seite wurde von den Mitgliedern des OpenBikeSensors e. V.  erstellt, in dem Natenom Mitglied war. Sollte eine wichtige Information fehlen, bitten wir um Nachricht.
 
 [Kontakt/Impressum](https://www.openbikesensor.org/contact/)
