@@ -63,6 +63,8 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 
 [Frankfurt am Main - 12:30 Alte Oper](https://hessen.social/@thomasgoldberg/111891549015722235)
 
+[Freiburg - 12:30 Stadttheater](https://freiburg.social/@bikolinux/111897641371658256)
+
 [Hamburg 12:45 Sievekingplatz 2](https://norden.social/@ADFC_Hamburg/111895232772546734)
 
 [Kassel - 14:45 Fridericianum](https://twitter.com/radberger/status/1755341019443343595)
