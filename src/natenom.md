@@ -70,13 +70,13 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 
 [Kassel - 14:45 Fridericianum](https://twitter.com/radberger/status/1755341019443343595)
 
-[Mainz - 12.15 Uhr Goetheplatz](https://toot.cm-social.com/@CriticalMassMainz/111895576983531000)
-
-[Offenburg  ab 12:30 Uhr (Treffpunkt Rathaus)](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og)
-
 [Leipzig 12:30 Augustusplatz](https://climatejustice.events/events/f9ecdb32-3926-41e5-96dc-ad80fb0a8a27)
 
+[Mainz - 12.15 Uhr Goetheplatz](https://toot.cm-social.com/@CriticalMassMainz/111895576983531000)
+
 [Marburg 13:00 Uhr Elisabeth-Blochmann-Platz ume 13 Uhr](https://social.tchncs.de/@polly/111891484962158461)
+
+[Offenburg  ab 12:30 Uhr (Treffpunkt Rathaus)](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og)
 
 [Ulm 14:30 Münsterplatz](https://www.facebook.com/groups/criticalmassulm/posts/7568466976520174/)
 
