@@ -78,6 +78,8 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 
 [Marburg 13:00 Uhr Elisabeth-Blochmann-Platz ume 13 Uhr](https://social.tchncs.de/@polly/111891484962158461)
 
+[Ulm 14:30 Münsterplatz](https://www.facebook.com/groups/criticalmassulm/posts/7568466976520174/)
+
 #### 9.2.24
 [Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
 
