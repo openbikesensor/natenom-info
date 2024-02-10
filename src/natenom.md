@@ -48,6 +48,7 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 #### 11.02.2024
 [Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
 
+[Berlin - 12:30 Elefantentor des Zoos](https://www.facebook.com/share/p/v1hpaJ4YrUk4CAdm/)
 
 [Bremen - 12:30 Präsident-Kennedy-Platz](https://toot.cm-social.com/@CriticalMassBremen/111891782555819748)
 
