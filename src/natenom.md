@@ -95,7 +95,7 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 - [BNN - Pforzheims Radfahrer wollen Natenom letzten Wunsch erfuellen](https://bnn.de/pforzheim/pforzheim-stadt/pforzheims-radfahrer-wollen-natenom-letzten-wunsch-erfuellen)
 
 #### 3.2.24
-- [BNN - Meinung Unfalltod von Batenom muss Weckruf fuer Radpolitik sein](https://bnn.de/pforzheim/pforzheim-stadt/meinung-unfalltod-von-natenom-muss-weckruf-fuer-radpolitik-sein)
+- [BNN - Meinung Unfalltod von Natenom muss Weckruf fuer Radpolitik sein](https://bnn.de/pforzheim/pforzheim-stadt/meinung-unfalltod-von-natenom-muss-weckruf-fuer-radpolitik-sein)
 
 #### 2.2.24
 - [BNN - „Natenoms“ Unfalltod polarisiert: Wie die Pforzheimer Polizei mit dem Shitstorm umgeht](https://bnn.de/pforzheim/pforzheim-stadt/natenoms-unfalltod-polarisiert-wie-die-pforzheimer-polizei-mit-dem-shitstorm-umgeht)
