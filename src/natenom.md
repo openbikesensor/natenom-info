@@ -91,6 +91,14 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 - 4.12.19 [Interview in der ZEIT](https://www.zeit.de/mobilitaet/2019-12/radfahren-landstrassen-mut-erfahrungen-natenom-blog)
 
 ### nach seinem Tod
+#### 11.02.24
+
+- [Nach Tod von Radaktivist: So erinnern 500 Menschen in Pforzheim an "Natenom"](https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/fahhrrad-demo-pforzheim-nach-unfall-natenom-100.html)
+
+- [Spiegel - Hunderte radeln für gestorbenen Aktivisten »Natenom«](https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod-a-5309448c-3962-4bb8-b99b-0ea7588793de)
+
+- [SWR Aktuell Baden-Württemberg: Sendung 19:45](https://www.ardmediathek.de/video/swr-aktuell-baden-wuerttemberg/sendung-19-45-uhr-vom-11-2-2024/swr-bw/Y3JpZDovL3N3ci5kZS9hZXgvbzIwMDE1NjI)
+
 #### 5.2.24
 - [BNN - Pforzheims Radfahrer wollen Natenom letzten Wunsch erfuellen](https://bnn.de/pforzheim/pforzheim-stadt/pforzheims-radfahrer-wollen-natenom-letzten-wunsch-erfuellen)
 
