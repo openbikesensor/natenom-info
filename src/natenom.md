@@ -11,7 +11,7 @@ In seinem Blog [natenom.de](https://natenom.de/) berichtete er ausführlich zu T
 Natenom wurde auf der Landstraße 574 bei Neuhausen am 30.01.2024 totgefahren.
 
 ## Gedenkveranstaltung am 11.02.2014
-Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+Am 11.02.2024 erfolgte eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
 
 [Zubringer aus Stuttgart-Vaihingen](https://twitter.com/ADFC_BW/status/1754782704443220365) 
 
@@ -91,7 +91,26 @@ Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing 
 - 4.12.19 [Interview in der ZEIT](https://www.zeit.de/mobilitaet/2019-12/radfahren-landstrassen-mut-erfahrungen-natenom-blog)
 
 ### nach seinem Tod
+
+#### 12.02.2024
+
+- [taz - Auf dem Lenker sitzt ein Elefant](https://taz.de/Gedenken-an-Radaktivist-Natenom/!5991609/)
+
+- [Zeit.de - Gedenkstätte für verunglückten Radaktivisten verwüstet](https://www.zeit.de/news/2024-02/12/gedenkstaette-fuer-verunglueckten-radaktivisten-verwuestet)
+
+- [Zeit.de - Er warnte vor den Gefahren für Radfahrer – bis er überfahren wurde](https://archive.ph/12euH)
+
+- [Paywall - PZ-News- "Natenom"-Gedenkstätte verwüstet: Polizei ermittelt wegen Störung der Totenruhe](https://www.pz-news.de/region_artikel,-Natenom-Gedenkstaette-verwuestet-Polizei-ermittelt-wegen-Stoerung-der-Totenruhe-_arid,2003292.html)
+
+- [SWR Aktuell BW - Gedenkstätte für Fahrradaktivist zerstört, ab 9:07](https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIwMDIxMTc)
+
+- [Spiegel - Unbekannte verwüsten Gedenkstätte für Radaktivisten »Natenom«](https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette-a-89efd2d5-9632-423f-b604-a34e821cdd66?sara_ref=re-so-app-sh&fbclid=IwAR0FK6blEpomtSU0GLfGmAyjWjf9oMio4Msa3oHatN73v1OFfsremDciEnE)
+
 #### 11.02.24
+
+- [Spiegel - Hunderte radeln für gestorbenen Aktivisten »Natenom«](https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod-a-5309448c-3962-4bb8-b99b-0ea7588793de)
+
+- [SWR Aktuell BW - Nach Tod von Radaktivist](https://www.ardmediathek.de/video/swr-aktuell-baden-wuerttemberg/sendung-19-45-uhr-vom-11-2-2024/swr-bw/Y3JpZDovL3N3ci5kZS9hZXgvbzIwMDE1NjI)
 
 - [Nach Tod von Radaktivist: So erinnern 500 Menschen in Pforzheim an "Natenom"](https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/fahhrrad-demo-pforzheim-nach-unfall-natenom-100.html)
 
