@@ -2,15 +2,20 @@ Natenom, bürgerlich Andreas Mandalka (* 1980/1981; † 30. Januar 2024 bei Neuh
 
 Diese Seite versucht einen Überblick über das Leben und den Tod und zu schaffen und Informationen dazu, wie seinem und dem Wunsch seiner Familie entsprochen werden kann, dass seine Arbeit auch in Zukunft einen Beitrag leisten kann, die Sicherheit von Radfahrenden zu verbessern.
 
+
+
 ## Blog
-In seinem Blog [natenom.de](https://natenom.de/) berichtete er ausführlich zu Themen, die ihn interessierten und insbesonder zu seinen Erlebnissen im Straßenverkehr und seine sehr meistens abgelehnten Hilfesuche bei Politik Polizei und Staatsanwaltschaft, gegen gefährliches und bedrohendes Verhalten vorzugehen. Zudem war er auf [Mastodon](https://digitalcourage.social/@natenom) aktiv.
+In seinem Blog [natenom.de](https://natenom.de/) berichtete er ausführlich zu Themen, die ihn interessierten und insbesonder zu seinen Erlebnissen im Straßenverkehr und seine meistens abgelehnten Hilfesuche bei Politik, Polizei und Staatsanwaltschaft, gegen gefährliches und bedrohendes Verhalten vorzugehen. Zudem war er auf [Mastodon](https://digitalcourage.social/@natenom) aktiv.
 
 ## Tod
 Natenom wurde auf der Landstraße 574 bei Neuhausen am 30.01.2024 totgefahren.
 
 ## Gedenkveranstaltung am 11.02.2014
-Am 11.02.2024 erfolgt eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+Am 11.02.2024 erfolgte eine Fahrt zur Unfallstelle und die Aufstellung eines Ghostbikes. [Link](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/05/gedenkfahrt-natenom-am-sonntag-11-2/)
+
 [Zubringer aus Stuttgart-Vaihingen](https://twitter.com/ADFC_BW/status/1754782704443220365) 
+
+[Zubringer aus Karlsruhe](https://mastodon.online/@adfc_karlsruhe/111892099601269229)
 
 
 ## Zukunft
@@ -20,25 +25,65 @@ Es laufen Bestrebungen, alle Inhalte ([Blog](https://natenom.de/)/[Wiki](https:/
 ### Juristische Aufarbeitung
 Die Familie wünscht sich eine juristische Aufarbeitung. Es gab zahlreiche Drohbriefe und Anfeindungen im Alltag gegen Natenom. Auch der Frage, ob der Umgang mit seinen Anzeigen und Beschwerden korrekt war, sollte auch im Sinne aller, die ähnliches erleben, nachgegangen werden.
 
+## Spendenkonto
+Der [ADFC Pforzeim-Enzkreis sammelt Spenden](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/02/spendenaufruf-natenom/) mit folgendem Ziel:
+
+- Bestattungs- und Anwaltskosten im Bezug auf den Unfall, soweit diese nicht von der Haftpflichtversicherung des Unfallverursachers oder der Rechtschutzversicherung Natenoms gedeckt sind (beendet am 6.2.24).
+
+- Weitere Juristische Aufarbeitung und Arbeit für die Sicherheit von Radfahrenden in seinem Sinne. 
+Spendenkonto und Überweisung:
+```
+ADFC Pforzheim-Enzkreis
+IBAN DE65 6665 0085 0001 4325 91
+Überweisungstext „Natenom Zukunft“
+```
+
 ## weitere Aktivitäten
 Hier ist der Platz um auf weitere Aktivitäten von Personen, Initiativen und staatlichen Stellen mit direktem Bezug zu Natenom hinzuweisen.
 
 ### Veranstaltungen
+
+Sehr aktuelle Liste von geplanten Veranstaltungen am 11.02.24 auch bei Changing Cities [Link](https://changing-cities.org/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten/).
+
 #### 11.02.2024
 [Bundesweite Schweigeminute](https://twitter.com/CCitiesOrg/status/1755269691931582918)
+
+[Berlin - 12:30 Elefantentor des Zoos](https://www.facebook.com/share/p/v1hpaJ4YrUk4CAdm/)
+
+[Bremen - 12:30 Präsident-Kennedy-Platz](https://toot.cm-social.com/@CriticalMassBremen/111891782555819748)
+
+[Darmstadt - 14:00 Friedensplatz](https://radentscheid-darmstadt.de/2024/02/07/in-gedenken-an-natemon-fuer-sichere-radwege-in-darmstadt-hessen-und-darueber-hinaus/)
+
+[Dortmund - 12:45 Treffpunkt wird noch festgelegt](https://ruhr.social/@DeinRUDOLF/111886621471771645)
+
+[Dresden - 13 Uhr Kulturpalast](https://twitter.com/Azetbur/status/1755503766743212309)
+
+[Duisburg - 14 Uhr Lifesaver Brunnen](https://twitter.com/CM_Duisburg/status/1755358248566202798)
+
+[Essen - 12:45 Verkehrs- und Umweltzentrum, Kopstadtplatz 12](https://radentscheid-essen.de/aktuelles/pressemitteilung-die-essener-radverkehrsinitiativen-organisieren-eine-gedenkfahrt-zum-tod-des-fahrradaktivisten-andreas-mandalka/)
+
+[Frankfurt am Main - 12:30 Alte Oper](https://hessen.social/@thomasgoldberg/111891549015722235)
+
+[Freiburg - 12:30 Stadttheater](https://freiburg.social/@bikolinux/111897641371658256)
+
+[Hamburg 12:45 Sievekingplatz 2](https://norden.social/@ADFC_Hamburg/111895232772546734)
+
+[Kassel - 14:45 Fridericianum](https://twitter.com/radberger/status/1755341019443343595)
+
+[Leipzig 12:30 Augustusplatz](https://climatejustice.events/events/f9ecdb32-3926-41e5-96dc-ad80fb0a8a27)
+
+[Mainz - 12.15 Uhr Goetheplatz](https://toot.cm-social.com/@CriticalMassMainz/111895576983531000)
+
+[Marburg 13:00 Uhr Elisabeth-Blochmann-Platz ume 13 Uhr](https://social.tchncs.de/@polly/111891484962158461)
+
+[Offenburg  ab 12:30 Uhr (Treffpunkt Rathaus)](https://offenburg.adfc.de/neuigkeit/natenom-bundesweite-schweigeminute-fuer-getoeteten-radaktivisten-auch-in-og)
+
+[Ulm 14:30 Münsterplatz](https://www.facebook.com/groups/criticalmassulm/posts/7568466976520174/)
+
 #### 9.2.24
 [Göttingen - Lichterfahrt 17 Uhr](https://twitter.com/CCitiesOrg/status/1755270111236145317)
 
-
-## Spendenkonto
-Der [ADFC Pforzeim-Enzkreis sammelt Spenden](https://www.fahrradstadt-pforzheim.de/index.php/2024/02/02/spendenaufruf-natenom/) mit folgendem Ziel:
-- Bestattungs- und Anwaltskosten im Bezug auf den Unfall, soweit diese nicht von der Haftpflichtversicherung des Unfallverursachers oder der Rechtschutzversicherung Natenoms gedeckt sind (beendet am 6.2.24).
-- Weitere Juristische Aufarbeitung und Arbeit für die Sicherheit von Radfahrenden in seinem Sinne. 
-Spendenkonto und Überweisung:
-    ADFC Pforzheim-Enzkreis
-    IBAN DE65 6665 0085 0001 4325 91
-    Überweisungstext „Natenom Zukunft“
-
+[Saarbrücken - 18:30 Max-Ophüls-Platz](https://criticalmass.in/saarbrucken/2024-02-09)
 
 ## Berichterstattung
 ### zu Lebzeiten
@@ -46,11 +91,38 @@ Spendenkonto und Überweisung:
 - 4.12.19 [Interview in der ZEIT](https://www.zeit.de/mobilitaet/2019-12/radfahren-landstrassen-mut-erfahrungen-natenom-blog)
 
 ### nach seinem Tod
+
+#### 12.02.2024
+
+- [taz - Auf dem Lenker sitzt ein Elefant](https://taz.de/Gedenken-an-Radaktivist-Natenom/!5991609/)
+
+- [Zeit.de - Gedenkstätte für verunglückten Radaktivisten verwüstet](https://www.zeit.de/news/2024-02/12/gedenkstaette-fuer-verunglueckten-radaktivisten-verwuestet)
+
+- [Zeit.de - Er warnte vor den Gefahren für Radfahrer – bis er überfahren wurde](https://archive.ph/12euH)
+
+- [Paywall - PZ-News- "Natenom"-Gedenkstätte verwüstet: Polizei ermittelt wegen Störung der Totenruhe](https://www.pz-news.de/region_artikel,-Natenom-Gedenkstaette-verwuestet-Polizei-ermittelt-wegen-Stoerung-der-Totenruhe-_arid,2003292.html)
+
+- [SWR Aktuell BW - Gedenkstätte für Fahrradaktivist zerstört, ab 9:07](https://www.ardmediathek.de/video/Y3JpZDovL3N3ci5kZS9hZXgvbzIwMDIxMTc)
+
+- [Spiegel - Unbekannte verwüsten Gedenkstätte für Radaktivisten »Natenom«](https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette-a-89efd2d5-9632-423f-b604-a34e821cdd66?sara_ref=re-so-app-sh&fbclid=IwAR0FK6blEpomtSU0GLfGmAyjWjf9oMio4Msa3oHatN73v1OFfsremDciEnE)
+
+#### 11.02.24
+
+- [Spiegel - Hunderte radeln für gestorbenen Aktivisten »Natenom«](https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod-a-5309448c-3962-4bb8-b99b-0ea7588793de)
+
+- [SWR Aktuell BW - Nach Tod von Radaktivist](https://www.ardmediathek.de/video/swr-aktuell-baden-wuerttemberg/sendung-19-45-uhr-vom-11-2-2024/swr-bw/Y3JpZDovL3N3ci5kZS9hZXgvbzIwMDE1NjI)
+
+- [Nach Tod von Radaktivist: So erinnern 500 Menschen in Pforzheim an "Natenom"](https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/fahhrrad-demo-pforzheim-nach-unfall-natenom-100.html)
+
+- [Spiegel - Hunderte radeln für gestorbenen Aktivisten »Natenom«](https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod-a-5309448c-3962-4bb8-b99b-0ea7588793de)
+
+- [SWR Aktuell Baden-Württemberg: Sendung 19:45](https://www.ardmediathek.de/video/swr-aktuell-baden-wuerttemberg/sendung-19-45-uhr-vom-11-2-2024/swr-bw/Y3JpZDovL3N3ci5kZS9hZXgvbzIwMDE1NjI)
+
 #### 5.2.24
 - [BNN - Pforzheims Radfahrer wollen Natenom letzten Wunsch erfuellen](https://bnn.de/pforzheim/pforzheim-stadt/pforzheims-radfahrer-wollen-natenom-letzten-wunsch-erfuellen)
 
 #### 3.2.24
-- [BNN - Meinung Unfalltod von Batenom muss Weckruf fuer Radpolitik sein](https://bnn.de/pforzheim/pforzheim-stadt/meinung-unfalltod-von-natenom-muss-weckruf-fuer-radpolitik-sein)
+- [BNN - Meinung Unfalltod von Natenom muss Weckruf fuer Radpolitik sein](https://bnn.de/pforzheim/pforzheim-stadt/meinung-unfalltod-von-natenom-muss-weckruf-fuer-radpolitik-sein)
 
 #### 2.2.24
 - [BNN - „Natenoms“ Unfalltod polarisiert: Wie die Pforzheimer Polizei mit dem Shitstorm umgeht](https://bnn.de/pforzheim/pforzheim-stadt/natenoms-unfalltod-polarisiert-wie-die-pforzheimer-polizei-mit-dem-shitstorm-umgeht)
