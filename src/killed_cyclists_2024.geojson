@@ -1,0 +1,5913 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907519875,
+          53.61783408
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Freitag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.805004752,
+          54.299750878
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Freitag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.137606081,
+          54.302985784
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.683640199,
+          53.933758573
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.656451789,
+          53.958649048
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675309783,
+          54.532026249
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396816323,
+          53.429349269
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.256332047,
+          52.686987582
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Samstag gegen 2 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.312297135,
+          52.59811961
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Freitag gegen 1 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.318022381,
+          53.128813923
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.792129266,
+          53.152735966
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Samstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731235941,
+          52.571116569
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Freitag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.607875127,
+          52.890946645
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Mittwoch gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.929174519,
+          52.204199056
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.813064079,
+          52.471084239
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Sonntag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56327656,
+          52.90034442
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.305400326,
+          53.526632924
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.326389107,
+          52.335726224
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Mittwoch gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.046667046,
+          53.129224149
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Sonntag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.998259575,
+          52.782271461
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.879295209,
+          52.542414576
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.045860918,
+          52.836803612
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.760976553,
+          52.346918267
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Mittwoch gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.20713579,
+          52.859905199
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Freitag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.839804349,
+          53.024170467
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.573001328,
+          52.95460989
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.203674473,
+          53.535099736
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.807127278,
+          52.701625334
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Freitag gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.935184647,
+          52.856685935
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Samstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.035359299,
+          53.717410339
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.727241051,
+          52.560496631
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.354883342,
+          52.634682934
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09487565,
+          53.313084572
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Samstag gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.720806483,
+          51.173866922
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.666713994,
+          50.591192913
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Montag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.014677741,
+          52.054547817
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Dienstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.000552674,
+          50.955817765
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Donnerstag gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874819159,
+          51.431849997
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Samstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.308660981,
+          51.515348757
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639296911,
+          51.714942159
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.923676395,
+          50.912257561
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Dienstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.918659904,
+          52.026517571
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Donnerstag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.464738134,
+          51.558287211
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Dienstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73838631,
+          51.537790028
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Sonntag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.080805269,
+          51.519455444
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560542068,
+          51.712798647
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.176958513,
+          51.761856165
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Freitag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.813654533,
+          52.011911904
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Freitag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.000274867,
+          51.385907778
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.12464577,
+          50.785359664
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567224326,
+          51.709082335
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.420444955,
+          51.509373482
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44934841,
+          51.285278974
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 4 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.497615616,
+          51.882384743
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.003944676,
+          52.389597863
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.253405015,
+          51.608762506
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Dienstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.401913356,
+          51.979364043
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.371524322,
+          51.103880871
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Sonntag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.177996933,
+          51.821275476
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.921463318,
+          51.188832685
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.582628666,
+          51.418743313
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Dienstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.070826205,
+          52.112174926
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.425559319,
+          51.609931377
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.15267358,
+          51.819342696
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.078374811,
+          50.881097813
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Freitag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.998307231,
+          51.051661016
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Samstag gegen 2 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.866262284,
+          51.740811122
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Freitag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.205873185,
+          51.78559861
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.200431074,
+          51.325542454
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Dienstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.116179342,
+          50.729682091
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.804275127,
+          50.680373357
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.260496455,
+          51.832670291
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Sonntag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.377182004,
+          50.412733177
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Freitag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.147853335,
+          52.008889212
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.279794412,
+          51.830971046
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Freitag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.365339446,
+          51.29421248
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Samstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604534274,
+          51.974672306
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.783625144,
+          51.388013292
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Donnerstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669112943,
+          52.132091859
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.962293469,
+          50.856299995
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Mittwoch gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.310282412,
+          51.840701342
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Samstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74578759,
+          49.975186243
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Sonntag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.389526133,
+          51.309175241
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Dienstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.800966929,
+          50.956709683
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621274721,
+          50.1212026
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Sonntag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.808551302,
+          49.965217851
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.345530961,
+          49.970677285
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Donnerstag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.822008053,
+          50.031777584
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Sonntag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.334671178,
+          51.078684758
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Freitag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.798523066,
+          51.041512135
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99924824,
+          50.828092374
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Montag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702916702,
+          49.728447918
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Mittwoch gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.430264781,
+          49.331459265
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.826881747,
+          50.031120589
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.902384617,
+          50.599349817
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.938210456,
+          49.900065251
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.038864273,
+          49.04448173
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Donnerstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.38210952,
+          50.360385324
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.077108191,
+          49.749391381
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.199352052,
+          50.027429849
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.753216467,
+          48.808576822
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Dienstag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.77896722,
+          47.765721466
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Mittwoch gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.834570469,
+          48.852152052
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Donnerstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.722936301,
+          47.692502782
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Sonntag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.951846127,
+          48.489254771
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.414839036,
+          49.205400937
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.093996301,
+          48.547386433
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Dienstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375405847,
+          48.564835224
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Dienstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.307286696,
+          48.40041386
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Dienstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.980576429,
+          48.915175578
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Donnerstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.561526712,
+          47.726803814
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.824415801,
+          47.697436938
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.389264396,
+          48.737531858
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.244521046,
+          48.523020216
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20743072,
+          48.884886567
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.238955729,
+          48.858777631
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.014906445,
+          48.137526849
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Donnerstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.375164797,
+          48.899949835
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Mittwoch gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.573115263,
+          49.292721573
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38495133,
+          47.744207106
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Mittwoch gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.186009997,
+          48.873134003
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.554847417,
+          48.78701062
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Sonntag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.434320916,
+          49.241279277
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026620385,
+          47.824172491
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Dienstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.074892817,
+          48.459881762
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Samstag gegen 3 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.392847878,
+          49.045747858
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.944299417,
+          48.135011425
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Freitag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.990104326,
+          49.303175264
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.709318205,
+          48.521332912
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Samstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.885614943,
+          49.906053181
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Donnerstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.739403285,
+          49.759816345
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Dienstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.159973591,
+          48.358044805
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Sonntag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.866458551,
+          50.104068112
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Freitag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.591585996,
+          49.987156796
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Sonntag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.637625529,
+          47.939767345
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Dienstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.664198693,
+          48.121503447
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Freitag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.254896518,
+          49.983464069
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Sonntag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.614221865,
+          50.059350913
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Samstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.937467504,
+          49.626681728
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Dienstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.353173172,
+          48.554022695
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Mittwoch gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.163270473,
+          48.084068733
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Sonntag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.290332802,
+          48.336830818
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.211036561,
+          48.144339702
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Sonntag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.734373578,
+          48.419911424
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Donnerstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98083698,
+          48.287144453
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.932017299,
+          50.022575065
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Sonntag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.021836427,
+          48.30538556
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.030987631,
+          49.851462235
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586349414,
+          48.705215118
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.119755259,
+          48.486245702
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.593756325,
+          47.960609885
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.64524015,
+          48.089249815
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.287492525,
+          48.607594853
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.591072276,
+          49.226712281
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Sonntag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.702026057,
+          48.113007774
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.190496459,
+          48.175301138
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Mittwoch gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.534679551,
+          47.99858556
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Dienstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.919250586,
+          49.933168289
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Freitag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.845002492,
+          50.186215483
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68398364,
+          47.975875777
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.898542441,
+          48.379486228
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.922181656,
+          47.963973228
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.730368205,
+          47.937182384
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.47506525,
+          48.622132545
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.358248031,
+          47.781432573
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.719902619,
+          48.034702112
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795336375,
+          50.270099188
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Freitag gegen 5 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599058222,
+          47.837157541
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.117755672,
+          49.456913077
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38103509,
+          48.65142182
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Donnerstag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.038031224,
+          49.43654876
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Freitag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.444959664,
+          47.91632012
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Sonntag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.029085417,
+          48.379913916
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.416749796,
+          48.67635846
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.899017713,
+          50.1330578
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.582726468,
+          48.042846909
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568448712,
+          48.874973843
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Mittwoch gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.418298897,
+          50.098105293
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.219696926,
+          52.217136495
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Dienstag gegen 5 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412462287,
+          52.367165503
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Freitag gegen 2 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.589507101,
+          51.977259412
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.636370072,
+          51.953395366
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Freitag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403850084,
+          52.568890155
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Samstag gegen 23 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.712071702,
+          51.63027852
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.270392367,
+          51.68685184
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Mittwoch gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.060300728,
+          52.549855392
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78973083,
+          51.950253111
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Dienstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70341605,
+          51.947422239
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Dienstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981967334,
+          52.449038354
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.424945413,
+          54.38399996
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.813169198,
+          53.288234315
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 23 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.076703341,
+          53.937310172
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Mittwoch gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.705005617,
+          53.523460424
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.71743981,
+          53.724385539
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.23077231,
+          54.02059179
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Dienstag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.886398905,
+          50.720576067
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Freitag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.046617591,
+          51.202139593
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.620839779,
+          51.023729031
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.994652142,
+          51.144617384
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Donnerstag gegen 23 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.868747951,
+          51.180796243
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20273099,
+          50.636261079
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.610983892,
+          51.192214913
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.234332331,
+          51.310775099
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.307518722,
+          51.341812067
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.854142637,
+          50.958822307
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Mittwoch gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.31819468,
+          51.381197925
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.630185842,
+          51.494938377
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Montag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.464441923,
+          51.350542222
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Mittwoch gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.908062487,
+          50.833056553
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Montag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.070449856,
+          51.376128648
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Mittwoch gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.706040126,
+          51.973451235
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Mittwoch gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.161865522,
+          52.349783903
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.260470721,
+          52.077630167
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.444444895,
+          51.88311292
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.279609715,
+          51.829985887
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Samstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.495138753,
+          52.103941311
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Sonntag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.077077094,
+          52.642198364
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Dienstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13622309,
+          50.969307741
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Sonntag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.990472745,
+          51.322484252
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.901101317,
+          51.269854106
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Samstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.646170038,
+          51.872613784
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Montag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.992498276,
+          51.332305688
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Montag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.027049889,
+          50.920032111
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Montag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.545833866,
+          50.974738064
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.377836016,
+          50.654870793
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Dienstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.39456808,
+          51.309407336
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602200936,
+          50.892904995
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.589186012,
+          54.769118664
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Donnerstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.836458432,
+          53.655191224
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Mittwoch gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.465891116,
+          54.784449263
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Mittwoch gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.184880651,
+          54.294519625
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Dienstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874020152,
+          49.26920224
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1556517,
+          53.546210254
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Mittwoch gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.983535847,
+          54.667701649
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.032238326,
+          54.322503909
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985978046,
+          53.526968686
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.095017802,
+          53.679756209
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Freitag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.073882972,
+          53.663856445
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.160077427,
+          53.649869415
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Donnerstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031385427,
+          53.498872941
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Donnerstag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067323851,
+          53.607548623
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.204351079,
+          53.491675312
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Dienstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.77006002,
+          52.410259289
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Mittwoch gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.049969976,
+          53.585610554
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Montag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.982285299,
+          53.544421202
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Freitag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.433914394,
+          51.923848432
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.796605117,
+          52.68145033
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Freitag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.002137796,
+          52.272922643
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Samstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.721147165,
+          53.443552905
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.042995602,
+          52.235820452
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 23 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.134961935,
+          53.39469921
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Mittwoch gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.727701465,
+          52.862979617
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Freitag gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.32414747,
+          52.201185699
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Samstag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.787982391,
+          53.692216955
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.081431865,
+          52.221746973
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.284974027,
+          52.565467919
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.416700834,
+          52.845847403
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Mittwoch gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.033955504,
+          52.846432155
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.078569001,
+          52.440323114
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Montag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.854953829,
+          53.1105707
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Freitag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9249596,
+          53.073013099
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Montag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.782119196,
+          53.095699643
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.833844195,
+          53.03319994
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.809537689,
+          53.093286947
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.447089494,
+          51.528295532
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Freitag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.730616934,
+          51.917396811
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Donnerstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.925776381,
+          52.301933215
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Dienstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.084217221,
+          51.109780196
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Donnerstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.974447594,
+          51.448651724
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Samstag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.004496283,
+          50.864951659
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Mittwoch gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.983466891,
+          51.039539774
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Samstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.34306802,
+          51.478598058
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Samstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.343471207,
+          51.683412626
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.110480469,
+          50.706216965
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Freitag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.201202918,
+          51.446442679
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Sonntag gegen 23 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.406721773,
+          51.883993471
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.221135734,
+          50.804021243
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.180179674,
+          50.7476641
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Sonntag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.208512246,
+          50.789690327
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.019641789,
+          50.620373375
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.810946624,
+          50.81401029
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84966548,
+          50.757880952
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Samstag gegen 8 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.786327955,
+          50.802813246
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.452201173,
+          50.781734285
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93073325,
+          49.948150184
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Samstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.96631364,
+          50.073137235
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Dienstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669709633,
+          50.124243692
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.856997619,
+          50.070638732
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.571708063,
+          50.002314008
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Dienstag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19124524,
+          50.354087555
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Sonntag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.212619878,
+          50.005628163
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Donnerstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.516924919,
+          50.250457708
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Freitag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.277880839,
+          49.517373781
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Montag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.833227108,
+          47.99441557
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Freitag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.042093792,
+          48.508456554
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Donnerstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.269121479,
+          50.003861341
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Dienstag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.403268519,
+          49.002206139
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Dienstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69961259,
+          49.697405267
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Samstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.785476577,
+          48.804898667
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Donnerstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.021158979,
+          48.783076889
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.663831745,
+          49.577974752
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.411190367,
+          49.022778284
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.728910848,
+          48.14833354
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Freitag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.842782308,
+          47.97296557
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.545719728,
+          48.961474318
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.891951285,
+          47.985338776
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.414971235,
+          49.007724836
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.452345854,
+          48.999966035
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.164511185,
+          48.885869849
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Montag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.306651926,
+          48.566827044
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.010223975,
+          48.685315549
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.875750971,
+          48.833962746
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Sonntag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.541410018,
+          47.67383662
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.644127382,
+          48.842401334
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.487097852,
+          48.637178214
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Donnerstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.741677416,
+          48.613973101
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Dienstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.773599922,
+          48.196373949
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.582121095,
+          48.13417704
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Samstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141558529,
+          49.003411194
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Freitag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.054631194,
+          49.469846376
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Sonntag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.793263439,
+          48.617321912
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Mittwoch gegen 23 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.891584051,
+          47.810083651
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Samstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8923282,
+          49.892070759
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Freitag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.765230955,
+          49.353720882
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.362312877,
+          48.175613889
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Donnerstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.162255384,
+          49.52641046
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928569799,
+          49.792231797
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Dienstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.943901721,
+          49.767731057
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35167032,
+          48.002180463
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.574713517,
+          48.133763944
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.865463174,
+          49.508092596
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.311105616,
+          47.998801335
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.900585352,
+          48.298093378
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.088569351,
+          47.84412233
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.232654378,
+          47.556619864
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Freitag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.548321844,
+          48.118630748
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Mittwoch gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10094276,
+          50.164740015
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.628883616,
+          48.745941437
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 3 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.459381022,
+          48.711897008
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.843644851,
+          49.784536064
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.895616172,
+          50.169030854
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Mittwoch gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.907004446,
+          50.322076529
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Dienstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.675616787,
+          48.055006458
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Donnerstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.696985329,
+          48.662977422
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.341237708,
+          49.634669117
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.434320387,
+          47.463778857
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Freitag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.538440257,
+          49.319926144
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.900565488,
+          49.720266479
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Samstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.40581252,
+          48.205098913
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574333326,
+          48.119896374
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Samstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.119941883,
+          49.452182972
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Samstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03548092,
+          49.772922577
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Freitag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.502624151,
+          52.599793516
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.462837206,
+          52.558618664
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Montag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.596546807,
+          52.437015649
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Donnerstag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.415701402,
+          52.526717629
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 4 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359136193,
+          52.536763966
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.465920706,
+          52.530685025
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Dienstag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.10876216,
+          52.377153334
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Mittwoch gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.331830857,
+          51.7445726
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Dienstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.146663749,
+          54.086638676
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Freitag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.688344162,
+          53.860351144
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Mittwoch gegen 23 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.183712572,
+          53.575974359
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Sonntag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.195279813,
+          53.54726358
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.682120059,
+          51.097090128
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Samstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.940807462,
+          51.144591926
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.803557991,
+          51.052260059
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374238079,
+          51.334656064
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Donnerstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.972741963,
+          51.223372116
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.989553472,
+          51.553172341
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Samstag gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.373764876,
+          51.283240136
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.522171222,
+          50.780923521
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Mittwoch gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.787713714,
+          51.035923546
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Dienstag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.780003402,
+          51.192450482
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565858678,
+          51.864195695
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.733400856,
+          50.719901883
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Donnerstag gegen 2 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.230958076,
+          51.847254836
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Dienstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.609964153,
+          52.145891847
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Dienstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.42259795,
+          50.577798724
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Samstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32571298,
+          50.983356507
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Mittwoch gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.423842224,
+          50.993226491
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Freitag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743366913,
+          50.506286324
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Mittwoch gegen 9 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.140117354,
+          49.535302483
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Sonntag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.24624092,
+          49.260483546
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Mittwoch gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.967735464,
+          50.872526262
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Montag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.052897013,
+          50.774186726
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Montag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.607939114,
+          54.30950723
+        ]
+      },
+      "properties": {
+        "name": "November 2024 an einem Freitag gegen 3 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.922431415,
+          53.60410486
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.443010613,
+          51.826487655
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Dienstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.843551456,
+          52.37104583
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Sonntag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.573999909,
+          51.77788954
+        ]
+      },
+      "properties": {
+        "name": "Februar 2024 an einem Freitag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45634495,
+          51.774359124
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Samstag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.661134921,
+          52.275584919
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Dienstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160245469,
+          50.851905384
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Sonntag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.175446932,
+          50.786125893
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Dienstag gegen 15 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.040638489,
+          51.309151868
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Freitag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.944272179,
+          51.665223813
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Dienstag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.883409562,
+          51.638171038
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.433271135,
+          51.805712249
+        ]
+      },
+      "properties": {
+        "name": "Dezember 2024 an einem Dienstag gegen 0 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55458471,
+          50.351560322
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4rz 2024 an einem Donnerstag gegen 17 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52380466,
+          51.317548008
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.719727167,
+          50.089443331
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.601460934,
+          49.660901766
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Freitag gegen 21 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567554108,
+          49.816758836
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Mittwoch gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.364534128,
+          49.266631804
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Mittwoch gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.210043161,
+          48.908880614
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Samstag gegen 12 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.304748822,
+          48.978677178
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Sonntag gegen 22 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.194068411,
+          48.844584607
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Montag gegen 18 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.128430084,
+          48.954778753
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Sonntag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.403060446,
+          48.741513049
+        ]
+      },
+      "properties": {
+        "name": "Oktober 2024 an einem Dienstag gegen 14 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.667823078,
+          49.404337208
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Donnerstag gegen 20 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.38572876,
+          48.1915732
+        ]
+      },
+      "properties": {
+        "name": "Juni 2024 an einem Montag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.853356128,
+          48.364224379
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.951693643,
+          47.741136433
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Samstag gegen 10 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702014473,
+          49.818416965
+        ]
+      },
+      "properties": {
+        "name": "Juli 2024 an einem Montag gegen 6 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.988360488,
+          49.934186481
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Dienstag gegen 19 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.271288855,
+          47.442578052
+        ]
+      },
+      "properties": {
+        "name": "August 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.187337773,
+          52.528758187
+        ]
+      },
+      "properties": {
+        "name": "Januar 2024 an einem Donnerstag gegen 1 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192111405,
+          54.008020898
+        ]
+      },
+      "properties": {
+        "name": "September 2024 an einem Dienstag gegen 7 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.326742576,
+          50.44249488
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Montag gegen 16 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.660413178,
+          50.731562452
+        ]
+      },
+      "properties": {
+        "name": "Mai 2024 an einem Samstag gegen 13 Uhr"
+      },
+      "id": "q8ITO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.818972144,
+          51.175305442
+        ]
+      },
+      "properties": {
+        "name": "April 2024 an einem Donnerstag gegen 11 Uhr"
+      },
+      "id": "q8ITO"
+    }
+  ]
+}
